@@ -44,3 +44,7 @@ The system utilizes a combination of frontend and backend technologies to delive
 
 The system successfully automates resume analysis and provides detailed insights, including contact information, skills, and experience categorization. It features a user-friendly interface and robust database management, streamlining the job application process and offering personalized recommendations for resume enhancement.
 The project demonstrates significant progress in automating resume parsing and analysis. Future enhancements will focus on refining skill gap analysis and integrating advanced semantic understanding capabilities to provide more accurate and context-aware results. These improvements aim to further enhance the recruitment process and offer deeper insights for both recruiters and candidates.
+
+## Team Members
+
+- [Rohit Yogeshwarar](https://github.com/Tihor999) 
